@@ -1,0 +1,15 @@
+// ltl-decision-tree/main.ltl
+//
+// CART decision tree with Gini / entropy splits.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-decision-tree v0.1.0")
+    io::println("CART decision tree with Gini / entropy splits.")
+    0
+}
